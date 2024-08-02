@@ -210,7 +210,7 @@ locationManager.requestLocationUpdates(LocationManager.NETWORK_PROVIDER, 0, 0, l
 
 #
 
-![Smartphone IRL](https://github.com/user-attachments/assets/ff417b9c-bc58-4295-ad72-014d95efe97b)
+![Smartphone IRL](https://github.com/user-attachments/assets/d1c5ac4b-b50a-4ffc-acf2-90db33b019bc)
 
 #
 ### Related Links
