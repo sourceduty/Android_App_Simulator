@@ -1,5 +1,9 @@
 ![Android](https://github.com/sourceduty/Android_App_Simulator/assets/123030236/6cd7d97f-acd9-410e-a8b7-73f478e2186f)
 
+> Plan, create and simulate different types of Android apps for Android Studio.
+
+#
+
 [Android Application](https://chat.openai.com/g/g-Dg0HK37Q1-android-application) has been meticulously crafted to facilitate users in the planning, development, and simulation phases of various Android applications, with a particular emphasis on leveraging the functionalities of Android Studio. Offering comprehensive support, whether in conceptualizing app ideas, adhering to design principles, implementing effective strategies, or staying abreast of the newest features and utilities within Android Studio, this platform stands prepared to assist. From furnishing code excerpts to dispensing UI/UX design recommendations, from optimizing app performance to aiding in debugging processes, a wide array of resources is at your disposal. Together, we can delve into the realms of innovative app functionalities and integration potentials, ensuring a thorough comprehension of your application's capabilities.
 
 Benefits:
@@ -202,6 +206,15 @@ locationManager.requestLocationUpdates(LocationManager.NETWORK_PROVIDER, 0, 0, l
  ```
 
 </details>
+
+#
+
+![Smartphone IRL](https://github.com/user-attachments/assets/ff417b9c-bc58-4295-ad72-014d95efe97b)
+
+#
+### Related Links
+
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
